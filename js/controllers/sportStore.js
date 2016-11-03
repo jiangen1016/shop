@@ -14,18 +14,18 @@ myapp.controller('bodyCtrl', function ($scope,$http,$location,mycart) {
             {id:"1004",category:"商品类别04"}
         ],
         products:[
-            {name:"火星商品01",category:"商品类别01",price:100,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB1_50x50.jpg"},
-            {name:"火星商品01",category:"商品类别01",price:100,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB1_50x50.jpg"},
-            {name:"火星商品01",category:"商品类别01",price:100,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB1_50x50.jpg"},
-            {name:"火星商品0302",category:"商品类别02",price:150,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
-            {name:"火星商品04",category:"商品类别02",price:160,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB3_50x50.jpg"},
-            {name:"火星商品05",category:"商品类别02",price:170,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
-            {name:"火星商品06",category:"商品类别03",price:200,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB4_50x50.jpg"},
-            {name:"火星商品06",category:"商品类别03",price:200,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB4_50x50.jpg"},
-            {name:"火星商品07",category:"商品类别04",price:340,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
-            {name:"火星商品09",category:"商品类别04",price:588,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB2_50x50.jpg"},
-            {name:"火星商品09",category:"商品类别04",price:888,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
-            {name:"火星商品09",category:"商品类别04",price:888,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB2_50x50.jpg"}
+            {name:"商品01",category:"商品类别01",price:100,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB1_50x50.jpg"},
+            {name:"商品01",category:"商品类别01",price:100,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB1_50x50.jpg"},
+            {name:"商品01",category:"商品类别01",price:100,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB1_50x50.jpg"},
+            {name:"商品0302",category:"商品类别02",price:150,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
+            {name:"商品04",category:"商品类别02",price:160,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB3_50x50.jpg"},
+            {name:"商品05",category:"商品类别02",price:170,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
+            {name:"商品06",category:"商品类别03",price:200,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB4_50x50.jpg"},
+            {name:"商品06",category:"商品类别03",price:200,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB4_50x50.jpg"},
+            {name:"商品07",category:"商品类别04",price:340,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
+            {name:"商品09",category:"商品类别04",price:588,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB2_50x50.jpg"},
+            {name:"商品09",category:"商品类别04",price:888,desc:"2016流行新款",imgsrc:"images/TB1_50x50.jpg"},
+            {name:"商品09",category:"商品类别04",price:888,desc:"2016流行新款,你值得拥有",imgsrc:"images/TB2_50x50.jpg"}
         ],
         shipping:{
 
